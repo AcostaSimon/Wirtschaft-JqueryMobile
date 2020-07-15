@@ -13,4 +13,6 @@ Aplicativo utilizando tecnologías webs, entre otras, cuya finalidad es gestiona
 - JQuery Mobile
 
 **Captura de pantalla:**
-<a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/PtpPkzT/Screenshot-20200714-182133-Wirtschaft.jpg" alt="Screenshot-20200714-182133-Wirtschaft" border="0"></a>
+
+
+<a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/PtpPkzT/Screenshot-20200714-182133-Wirtschaft.jpg" width="35%" height="35%" alt="Screenshot-20200714-182133-Wirtschaft" border="0"></a>
