@@ -17,4 +17,4 @@ Aplicativo utilizando tecnologías webs, entre otras, cuya finalidad es gestiona
 **Captura de pantalla:**
 
 
-<a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/mbZsKmL/IMG-20200711-WA0001.jpg" width="85%" height="85%" alt="IMG-20200711-WA0001" border="0"></a>
+<a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/mbZsKmL/IMG-20200711-WA0001.jpg" alt="IMG-20200711-WA0001" border="0"></a>
